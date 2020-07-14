@@ -9,7 +9,7 @@ public class Program {
 		System.out.printf("total : %d", total);
 		// 수정 1
 		// 수정2
-		//
+		// new branch line2
 	}
 
 }
