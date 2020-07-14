@@ -6,6 +6,8 @@ public class Program {
 		int x = 3;
 		int y = 4;
 		int total = x+y;
+		System.out.printf("total : %d", total);
+		// 수정 1
 	}
 
 }
